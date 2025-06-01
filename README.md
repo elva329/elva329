@@ -8,7 +8,6 @@
   🌏 Working towards impactful tech for real-world solutions  
 </p>
 
----
 
 ### 📬 Get in Touch
 
@@ -24,14 +23,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
----
-
-### 🧠 About Me
-- 🔭 Former team lead on AI-powered web tools (30k+ MAU)
-- 💬 Multilingual: English / Chinese / Japanese（N1）  
-- 📚 Currently exploring: Data Analytics & Generative AI
-
----
 
 ### 📈 GitHub Stats
 
@@ -39,7 +30,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=elva329&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elva329&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
 </p>
-
----
-
-_Thanks for stopping by! Let’s build something great together 🚀_
