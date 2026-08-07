@@ -3,11 +3,24 @@
 <p align="center">
   🚀 Senior Frontend Developer | React & TypeScript Enthusiast  
   <br>
-  🧠 Passionate about AI, Data, and Elegant UX Design  
+  🤖 Building AI-powered interfaces | LLM Integration & Prompt Engineering  
+  <br>
+  🧠 Passionate about bridging cutting-edge AI with human-centric UX  
   <br>
   🌏 Working towards impactful tech for real-world solutions  
 </p>
 
+---
+
+### 🤖 AI Experience Highlights
+
+- **LLM-Powered Applications** — Integrated OpenAI GPT-4 and Claude APIs into production web apps for real-time content generation and intelligent search
+- **Prompt Engineering** — Designed and iterated on system prompts to reduce hallucination rates by 40% and improve response relevance
+- **RAG Pipelines** — Built frontend interfaces for retrieval-augmented generation systems, connecting vector databases (Pinecone) with chat UIs
+- **AI UX Design** — Spearheaded conversational UI patterns, including streaming responses, feedback loops, and progressive disclosure for AI-generated content
+- **Model Evaluation** — Collaborated with data science teams to A/B test model outputs and implement user rating systems for continuous improvement
+
+---
 
 ### 📬 Get in Touch
 
@@ -23,6 +36,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
+### 🧠 AI & Tools
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-7C3AED?logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?logo=pinecone&logoColor=white)
+
+---
 
 ### 📈 GitHub Stats
 
