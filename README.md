@@ -1,7 +1,5 @@
 ### 💡 About Me
 
-🔭 **Currently focused on:** Scaling production AI features · LLM agents · Vector-search RAG pipelines
-
 💼 **Technical Lead** with 10+ years of full-stack experience bridging complex backend systems with seamless, high-performance frontend architectures.
 
 🏆 **Certified:** PMP · CSM · Specializing in Agile delivery, technical leadership, and engineering best practices.
