@@ -29,6 +29,7 @@
 
 <p align="center">
   <strong>🔥 I actively use AI daily to accelerate development and build intelligent features</strong>
+  <img src="/DeepSeek.png" alt="DeepSeek AI Usage" width="100%" />
 </p>
 
 ### 📈 Activity Snapshot
